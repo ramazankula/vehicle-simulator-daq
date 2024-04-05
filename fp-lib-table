@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sim-daq")(type "KiCad")(uri "$(KIPRJMOD)/sim-daq.pretty")(options "")(descr ""))
+)
